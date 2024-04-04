@@ -43,3 +43,7 @@ Detecting forest fires using Convolutional Neural Networks (CNNs) involves sever
    - Update the system as needed to incorporate new features or address any issues that arise.
 
 Throughout the project, it's essential to document each step thoroughly, including data sources, preprocessing techniques, model architectures, training procedures, and evaluation results, to ensure reproducibility and facilitate future improvements. Additionally, consider ethical implications, such as privacy concerns related to surveillance and potential biases in the dataset or model predictions.
+
+Accuracy of all Algorithm :
+
+<img src="" width="300">  
