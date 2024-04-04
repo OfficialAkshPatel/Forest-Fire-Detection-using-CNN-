@@ -46,4 +46,4 @@ Throughout the project, it's essential to document each step thoroughly, includi
 
 Accuracy of all Algorithm :
 
-<img src="" width="300">  
+<img src="Screenshot 2024-04-04 at 9.50.44 AM.png" width="600">  
